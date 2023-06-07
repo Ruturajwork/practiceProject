@@ -31,8 +31,8 @@ const Footer = () => {
           </Column>
         </Row>
         <div className="policy ">
-          <p className="p-4">© 2023 Thrive</p>
-          <p className="p-4">Privacy Policy</p>
+          <p className="p-4">© 2023 Ruturaj</p>
+          <p className="p-4">Privacy Policy </p>
         </div>
       </Container>
     </Box>
